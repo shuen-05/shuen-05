@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @shuen-05
 
-- 👀 **I’m interested in:** Software Engineering, Robotics, Mechatronics, 3D Printing and Computer Vision
+- 👀 **I’m interested in:** Software Engineering, Robotics, 3D Printing and Computer Vision
 - 🌱 **I’m currently learning:** Computer Science & AI methods, focusing on C# Programming, 3D Modelling, and System Programming
 - 💞️ **I’m looking to collaborate on:** Open-source tools, interactive simulations, computer vision pipelines, or robotics projects
 - 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/shuen-xian-tan) • [Email](mailto:shuenhere@gmail.com)
